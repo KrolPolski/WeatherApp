@@ -1,0 +1,42 @@
+C:\Users\ryanb\source\repos\RBWeatherApp\RBWeatherApp\RBWeatherApp\bin\Debug\netstandard2.0\RBWeatherApp.deps.json
+C:\Users\ryanb\source\repos\RBWeatherApp\RBWeatherApp\RBWeatherApp\bin\Debug\netstandard2.0\RBWeatherApp.dll
+C:\Users\ryanb\source\repos\RBWeatherApp\RBWeatherApp\RBWeatherApp\bin\Debug\netstandard2.0\ref\RBWeatherApp.dll
+C:\Users\ryanb\source\repos\RBWeatherApp\RBWeatherApp\RBWeatherApp\bin\Debug\netstandard2.0\RBWeatherApp.pdb
+C:\Users\ryanb\source\repos\RBWeatherApp\RBWeatherApp\RBWeatherApp\obj\Debug\netstandard2.0\RBWeatherApp.csprojAssemblyReference.cache
+C:\Users\ryanb\source\repos\RBWeatherApp\RBWeatherApp\RBWeatherApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ryanb\source\repos\RBWeatherApp\RBWeatherApp\RBWeatherApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ryanb\source\repos\RBWeatherApp\RBWeatherApp\RBWeatherApp\obj\Debug\netstandard2.0\RBWeatherApp.AssemblyInfoInputs.cache
+C:\Users\ryanb\source\repos\RBWeatherApp\RBWeatherApp\RBWeatherApp\obj\Debug\netstandard2.0\RBWeatherApp.AssemblyInfo.cs
+C:\Users\ryanb\source\repos\RBWeatherApp\RBWeatherApp\RBWeatherApp\obj\Debug\netstandard2.0\RBWeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\ryanb\source\repos\RBWeatherApp\RBWeatherApp\RBWeatherApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ryanb\source\repos\RBWeatherApp\RBWeatherApp\RBWeatherApp\obj\Debug\netstandard2.0\RBWeatherApp.dll
+C:\Users\ryanb\source\repos\RBWeatherApp\RBWeatherApp\RBWeatherApp\obj\Debug\netstandard2.0\ref\RBWeatherApp.dll
+C:\Users\ryanb\source\repos\RBWeatherApp\RBWeatherApp\RBWeatherApp\obj\Debug\netstandard2.0\RBWeatherApp.pdb
+C:\Users\Ryan Boudwin\source\repos\RBWeatherApp-v1\RBWeatherApp\RBWeatherApp\RBWeatherApp\bin\Debug\netstandard2.0\RBWeatherApp.deps.json
+C:\Users\Ryan Boudwin\source\repos\RBWeatherApp-v1\RBWeatherApp\RBWeatherApp\RBWeatherApp\bin\Debug\netstandard2.0\RBWeatherApp.dll
+C:\Users\Ryan Boudwin\source\repos\RBWeatherApp-v1\RBWeatherApp\RBWeatherApp\RBWeatherApp\bin\Debug\netstandard2.0\ref\RBWeatherApp.dll
+C:\Users\Ryan Boudwin\source\repos\RBWeatherApp-v1\RBWeatherApp\RBWeatherApp\RBWeatherApp\bin\Debug\netstandard2.0\RBWeatherApp.pdb
+C:\Users\Ryan Boudwin\source\repos\RBWeatherApp-v1\RBWeatherApp\RBWeatherApp\RBWeatherApp\obj\Debug\netstandard2.0\RBWeatherApp.csprojAssemblyReference.cache
+C:\Users\Ryan Boudwin\source\repos\RBWeatherApp-v1\RBWeatherApp\RBWeatherApp\RBWeatherApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ryan Boudwin\source\repos\RBWeatherApp-v1\RBWeatherApp\RBWeatherApp\RBWeatherApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ryan Boudwin\source\repos\RBWeatherApp-v1\RBWeatherApp\RBWeatherApp\RBWeatherApp\obj\Debug\netstandard2.0\RBWeatherApp.AssemblyInfoInputs.cache
+C:\Users\Ryan Boudwin\source\repos\RBWeatherApp-v1\RBWeatherApp\RBWeatherApp\RBWeatherApp\obj\Debug\netstandard2.0\RBWeatherApp.AssemblyInfo.cs
+C:\Users\Ryan Boudwin\source\repos\RBWeatherApp-v1\RBWeatherApp\RBWeatherApp\RBWeatherApp\obj\Debug\netstandard2.0\RBWeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Boudwin\source\repos\RBWeatherApp-v1\RBWeatherApp\RBWeatherApp\RBWeatherApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Ryan Boudwin\source\repos\RBWeatherApp-v1\RBWeatherApp\RBWeatherApp\RBWeatherApp\obj\Debug\netstandard2.0\RBWeatherApp.dll
+C:\Users\Ryan Boudwin\source\repos\RBWeatherApp-v1\RBWeatherApp\RBWeatherApp\RBWeatherApp\obj\Debug\netstandard2.0\ref\RBWeatherApp.dll
+C:\Users\Ryan Boudwin\source\repos\RBWeatherApp-v1\RBWeatherApp\RBWeatherApp\RBWeatherApp\obj\Debug\netstandard2.0\RBWeatherApp.pdb
+C:\Users\Ryan Boudwin\source\repos\RBWeatherApp-v2\RBWeatherApp\RBWeatherApp\RBWeatherApp\bin\Debug\netstandard2.0\RBWeatherApp.deps.json
+C:\Users\Ryan Boudwin\source\repos\RBWeatherApp-v2\RBWeatherApp\RBWeatherApp\RBWeatherApp\bin\Debug\netstandard2.0\RBWeatherApp.dll
+C:\Users\Ryan Boudwin\source\repos\RBWeatherApp-v2\RBWeatherApp\RBWeatherApp\RBWeatherApp\bin\Debug\netstandard2.0\ref\RBWeatherApp.dll
+C:\Users\Ryan Boudwin\source\repos\RBWeatherApp-v2\RBWeatherApp\RBWeatherApp\RBWeatherApp\bin\Debug\netstandard2.0\RBWeatherApp.pdb
+C:\Users\Ryan Boudwin\source\repos\RBWeatherApp-v2\RBWeatherApp\RBWeatherApp\RBWeatherApp\obj\Debug\netstandard2.0\RBWeatherApp.csprojAssemblyReference.cache
+C:\Users\Ryan Boudwin\source\repos\RBWeatherApp-v2\RBWeatherApp\RBWeatherApp\RBWeatherApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ryan Boudwin\source\repos\RBWeatherApp-v2\RBWeatherApp\RBWeatherApp\RBWeatherApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ryan Boudwin\source\repos\RBWeatherApp-v2\RBWeatherApp\RBWeatherApp\RBWeatherApp\obj\Debug\netstandard2.0\RBWeatherApp.AssemblyInfoInputs.cache
+C:\Users\Ryan Boudwin\source\repos\RBWeatherApp-v2\RBWeatherApp\RBWeatherApp\RBWeatherApp\obj\Debug\netstandard2.0\RBWeatherApp.AssemblyInfo.cs
+C:\Users\Ryan Boudwin\source\repos\RBWeatherApp-v2\RBWeatherApp\RBWeatherApp\RBWeatherApp\obj\Debug\netstandard2.0\RBWeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Boudwin\source\repos\RBWeatherApp-v2\RBWeatherApp\RBWeatherApp\RBWeatherApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Ryan Boudwin\source\repos\RBWeatherApp-v2\RBWeatherApp\RBWeatherApp\RBWeatherApp\obj\Debug\netstandard2.0\RBWeatherApp.dll
+C:\Users\Ryan Boudwin\source\repos\RBWeatherApp-v2\RBWeatherApp\RBWeatherApp\RBWeatherApp\obj\Debug\netstandard2.0\ref\RBWeatherApp.dll
+C:\Users\Ryan Boudwin\source\repos\RBWeatherApp-v2\RBWeatherApp\RBWeatherApp\RBWeatherApp\obj\Debug\netstandard2.0\RBWeatherApp.pdb

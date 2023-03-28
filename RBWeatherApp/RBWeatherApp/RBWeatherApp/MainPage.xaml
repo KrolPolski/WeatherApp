@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RBWeatherApp.MainPage">
+
+    <Grid x:Name="WeatherGrid"
+          >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            
+            <RowDefinition Height="1.5*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="1.5*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            
+        </Grid.ColumnDefinitions>
+        <Label x:Name="LblCity"
+               TextColor="Black"
+               Grid.Row="0"
+               Grid.ColumnSpan="2"
+               Text="City Name"
+               FontSize="50"
+               FontAttributes="Bold"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"
+               
+               />
+        <Label x:Name="LblTemp"
+               TextColor="Black"
+               Text="Temp"
+               Grid.Row="1"
+               Grid.Column="0"
+               FontSize="60"
+               FontAttributes="Bold"
+               HorizontalTextAlignment="End"
+               VerticalTextAlignment="Center"/>
+        <Label x:Name="LblHighLow"
+               TextColor="Black"
+               Text="High/Low"
+               Grid.Row="1"
+               Grid.Column="1"
+               FontSize="30"
+               FontAttributes="Bold"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"/>
+        <Label x:Name="LblWeatherCondition"
+               TextColor="Black"
+               Text="Condition"
+               Grid.Row="2"
+               Grid.Column="0"
+               Grid.ColumnSpan="2"
+               FontSize="30"
+               FontAttributes="Bold"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"/>
+        <Button x:Name="BtnCelsiusFahrenheit"
+                Text="°C/°F"
+                Grid.Column="1"
+                Grid.Row="2"
+                Margin="120,0,0,0"
+                Clicked="BtnCelsiusFahrenheit_Clicked"
+                FontSize="20"/>
+        <Label x:Name="LblWind"
+               TextColor="Black"
+               Grid.Row="3"
+               Grid.ColumnSpan="2"
+               Text="Wind Speed"
+               FontSize="30"
+               FontAttributes="Bold"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"/>
+        <Label x:Name="LblSunrise"
+               TextColor="Black"
+               Grid.Row="4"
+               Grid.Column="0"
+               Text="Sunrise Time"
+               FontSize="20"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"/>
+        <Label x:Name="LblSunset"
+               TextColor="Black"
+               Grid.Row="4"
+               Grid.Column="1"
+               Text="Sunset Time"
+               FontSize="20"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"/>
+        <Label x:Name="LblPressure"
+               TextColor="Black"
+               Grid.Row="5"
+               Grid.Column="0"
+               Text="Pressure"
+               FontSize="20"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"/>
+        <Label x:Name="LblHumidity"
+               Grid.Row="5"
+               Grid.Column="1"
+               Text="Humidity"
+               FontSize="20"
+               TextColor="Black"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"/>
+        <Label x:Name="LblCondition"
+               Grid.Row="6"
+               Grid.Column="0"
+               Grid.ColumnSpan="2"
+               Text="Weather Description"
+               FontSize="20"
+               TextColor="Black"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"/>
+        
+        <Entry x:Name="EntCity"
+               Grid.Row="7"
+               Grid.ColumnSpan="2"
+               FontSize="25"
+               Placeholder="Enter a custom city"
+               PlaceholderColor="Black"
+               TextColor="Black"/>
+        <Picker x:Name="PckCity"
+                Grid.Row="8"
+                Grid.ColumnSpan="2"
+                FontSize="30"
+                Title="Pick a City!"
+                SelectedIndexChanged="PckCity_SelectedIndexChanged">
+        <Picker.Items>
+                
+                <x:String>Helsinki</x:String>
+            <x:String>Lancaster</x:String>
+            <x:String>Lisbon</x:String>
+            <x:String>Salt Lake City</x:String>
+            <x:String>Salvador</x:String>
+        </Picker.Items>
+        </Picker>
+        <Button x:Name="BtnShowWeatherDetails"
+                Grid.Row="9"
+                Grid.ColumnSpan="2"
+                Text="Show Weather Details"
+                FontSize="30"
+                BackgroundColor="DimGray"
+                TextColor="White"
+                CornerRadius="30"
+                Margin="10"
+                Clicked="BtnShowWeatherDetails_Clicked"
+                />
+    </Grid>
+
+</ContentPage>

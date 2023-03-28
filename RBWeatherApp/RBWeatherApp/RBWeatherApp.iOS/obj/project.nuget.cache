@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nEk3g+bRyMSkhZEG4bWxLbt53lfJak7c0eUksSrdxowXQToZ2JhK6nxb30Oo/R6N5SCyK3xqFzwiJtZiRZX2yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ryan Boudwin\\source\\repos\\RBWeatherApp-v2\\RBWeatherApp\\RBWeatherApp\\RBWeatherApp.iOS\\RBWeatherApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ryan Boudwin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Ryan Boudwin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
